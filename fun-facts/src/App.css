@@ -1,0 +1,21 @@
+div {
+  display: flex;
+  flex-direction: column;
+  border-radius: 2rem;
+  border-style: dashed;
+  width: 50%;
+  height: 25%;
+  color: aqua;
+  padding: 5rem;
+  margin: 3rem;
+  align-items: center;
+}
+
+h2 {
+  font-size: 3rem;
+  text-decoration: underline;
+}
+
+p {
+  color: chartreuse;
+}
